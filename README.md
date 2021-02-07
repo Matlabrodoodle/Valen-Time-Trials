@@ -5,6 +5,8 @@ Welcome to the Valen-Time Trials, a collection of romantic mini-games where you 
 make the perfect Valentine's Day for that special someone!
 
 To play simply find the file entitled "final_game.py" and run it. Enjoy!
+NOTE: the final_game.py in the zip has a section of code commented out that shouldn't be,
+use the version I upload separately for full functionality
 
 Team roles were as follows:
 Lead Programmer: Alvito DiStefano
